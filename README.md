@@ -21,6 +21,10 @@ Or install it yourself as:
 $ gem install blog_engine
 ```
 
+
+After that install migartion from gems 
+$ rake blog_engine:install:migrations
+
 ## Contributing
 Contribution directions go here.
 
